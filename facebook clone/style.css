@@ -1,0 +1,367 @@
+.navbar{
+    width: 1300px;
+    height: 85px;
+    background-color:white;
+    position:fixed;
+    top: 0px;
+    transition: all 2s linear 1s;
+   
+
+   #me{
+    border-radius: 50%; /* Make elements circular */
+}
+
+
+ 
+   
+    
+   
+   
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+
+#searchbar{
+   
+    width: 217px;
+    height: 40px;
+    border: 1px solid white;
+    background-color: #eff2f5;
+
+    border-radius: 15px;
+
+}
+
+#text{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+}
+
+
+.nav:hover,.sidee:hover{
+    transform: scale(1.35);
+   
+    
+}
+
+
+.sidebar{
+background-color: #eff2f5;
+width: 200px;
+height: 1500px;
+color: white;
+margin-top: 95px;
+color: rgb(236, 7, 7);
+display: inline-block;
+
+
+
+
+}
+
+
+.sidee{
+
+    padding-top: 25px;
+    
+    
+    
+}
+
+a{
+    color:black;
+    text-decoration: none;
+
+    display: flex;
+    align-items:flex-end;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+   
+
+    
+    
+}
+
+.side{
+
+    display: flex; /* Enable flexbox for the list */
+    flex-direction: column; 
+    justify-content: center; /* Center list items vertically */
+    align-items: flex-start; 
+    align-items: space-evenly;
+    list-style-type: none;
+    
+   
+}
+
+
+
+
+#mainbar {
+    width: 1090px;
+    background-color: #eff2f5;
+height: 1500px;
+color: white;
+position:absolute;
+top: 103px;
+left: 208px;
+z-index: -1;
+
+display: flex;
+justify-content: space-evenly;
+
+}
+
+
+
+
+
+.stor{
+
+    width: 120px;
+    height: 200px;
+    background-color: rgb(3, 245, 63);
+    margin-right: 20px;
+    position: relative;
+    top: 40px;
+    color: red;
+    display: inline-block;
+    border-radius: 15px;
+}
+
+
+
+#out1{
+
+    background-image: url("umar.jpg");
+    background-size: cover; 
+      
+    
+}
+
+
+
+
+#out2{
+
+    background-image: url("baber.webp");
+    background-size: cover;
+    
+}
+
+#out3{
+
+    background-image: url("kohli.webp");
+    background-size: cover;
+    
+}
+
+#out4{
+
+    background-image: url("sidhu.jfif");
+    background-size: cover;
+    
+}
+
+
+#one {
+   
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(247, 7, 7);
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+     background-image: url("umar.jpg");
+    background-size: cover;
+    border: 4px solid blue;
+}
+
+
+#two {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(247, 7, 7);
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+    background-image: url("baber.webp");
+    background-size: cover;
+    border: 4px solid blue;
+}
+
+
+#three {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(247, 7, 7);
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+    background-image: url("kohli.webp");
+    background-size: cover;
+    border: 4px solid blue;
+   
+}
+
+
+#four {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(247, 7, 7);
+    margin-top: 20px;
+    margin-left: 10px;
+    color: white;
+    background-image: url("sidhu.jfif");
+    background-size: cover;
+    border: 4px solid blue;
+
+    
+}
+
+
+#onee{
+    
+     position: relative;
+    top: 120px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+    transition: all 1s linear 2s ;
+}
+
+
+
+
+
+#onee:hover{
+    color: blue;
+}
+
+#twoo{
+    position: relative;
+    top: 120px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#threee{
+    position: relative;
+    top: 120px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#fourr{
+    position: relative;
+    top: 120px;
+    left: 10px;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
+#inmind{
+    width: 855px;
+    height: 71px;
+    background-color:white;
+    position:absolute;
+    left: 315px;
+    top: 400px;
+    border-radius: 20px;
+    z-index: -1;
+    
+}
+
+#ima{
+    border-radius: 50%;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#tex{
+    width: 350px;
+    height: 40px;
+    position: absolute;
+    left: 90px;
+    top: 12px;
+    border-radius: 15px;
+    border-color: white;
+    background-color: #eff2f5;
+    border: 1px solid white;
+}
+
+#url{
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    left: 540px;
+    top: 12px;
+    border-radius: 15px;
+    border-color: white;
+    background-color: #eff2f5;
+    border: 1px solid white;
+}
+
+
+
+#feeling{
+   
+        width: 855px;
+        height: 71px;
+        background-color:white;
+        position:absolute;
+        left: 315px;
+        top: 473px;
+        z-index: -1;
+        border-radius: 20px;
+        color: black;
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 900;
+
+       
+        
+  
+}
+
+#im1{
+    margin-left: 40px;
+    margin-top: 15px;
+    
+}
+
+
+#im2{
+    margin-left: 200px;
+    margin-top: 15px;
+}
+
+
+#im3{
+    margin-left: 120px;
+    margin-top: 15px;
+    
+}
