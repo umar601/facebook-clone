@@ -7,5 +7,5 @@ Profile Page: Displays a sample user profile layout.
 Navigation Bar: Includes a top navigation bar similar to Facebook’s.
 Post Feed: A basic section for displaying user posts.
 following are properties.
-This is inspired from Facebook.
+This is inspired from Facebook....
 ....
